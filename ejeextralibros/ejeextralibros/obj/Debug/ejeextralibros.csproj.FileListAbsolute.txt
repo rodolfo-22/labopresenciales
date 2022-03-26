@@ -1,0 +1,7 @@
+C:\Users\Admin\RiderProjects\semana 3\ejeextralibros\ejeextralibros\bin\Debug\ejeextralibros.exe
+C:\Users\Admin\RiderProjects\semana 3\ejeextralibros\ejeextralibros\bin\Debug\ejeextralibros.pdb
+C:\Users\Admin\RiderProjects\semana 3\ejeextralibros\ejeextralibros\obj\Debug\ejeextralibros.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\semana 3\ejeextralibros\ejeextralibros\obj\Debug\ejeextralibros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\semana 3\ejeextralibros\ejeextralibros\obj\Debug\ejeextralibros.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\semana 3\ejeextralibros\ejeextralibros\obj\Debug\ejeextralibros.exe
+C:\Users\Admin\RiderProjects\semana 3\ejeextralibros\ejeextralibros\obj\Debug\ejeextralibros.pdb
