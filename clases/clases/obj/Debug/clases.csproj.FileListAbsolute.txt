@@ -1,0 +1,7 @@
+C:\Users\Admin\RiderProjects\semana 3\clases\clases\bin\Debug\clases.exe
+C:\Users\Admin\RiderProjects\semana 3\clases\clases\bin\Debug\clases.pdb
+C:\Users\Admin\RiderProjects\semana 3\clases\clases\obj\Debug\clases.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\semana 3\clases\clases\obj\Debug\clases.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\semana 3\clases\clases\obj\Debug\clases.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\semana 3\clases\clases\obj\Debug\clases.exe
+C:\Users\Admin\RiderProjects\semana 3\clases\clases\obj\Debug\clases.pdb
